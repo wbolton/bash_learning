@@ -94,4 +94,4 @@ while true; do
         *)
             echo "Invalid option!";;
     esac
-doneF
+done
